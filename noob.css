@@ -1,0 +1,14 @@
+body{
+    background-color: rgb(202, 255, 255);
+}
+header{
+    background-color: rgb(113, 234, 255);
+}
+header a{
+    cursor: pointer;
+
+}
+.instuction{
+    font-size: 40px;
+    margin: 20px;
+}
